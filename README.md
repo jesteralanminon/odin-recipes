@@ -1,3 +1,3 @@
 # odin-recipes
 
-# This is a project which is entitled Odin Recipes
+A simple HTML website showcasing recipes
